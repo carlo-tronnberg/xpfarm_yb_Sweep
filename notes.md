@@ -19,3 +19,6 @@
 ## Progress
 
 ### Pomodoro 🍅 1
+\n### Pomodoro 🍅 1
+- User story #1 🚧
+  - Scenario # 🔴 - Dummy files
