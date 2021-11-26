@@ -24,3 +24,4 @@
   - Scenario # 🔴 - Dummy files
   - Scenario #1 🔴 - change
   - Scenario #1 🟢 - Fixed
+  - Scenario #1 🟢 - added a test
