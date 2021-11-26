@@ -10,6 +10,7 @@ describe('UAT description (what the user would accept)', () => {
       a    | b    | expected
       ${1} | ${2} | ${2}
       ${3} | ${2} | ${4}
+      ${3} | ${3} | ${5}
     `(
       'GIVEN numbers $a and $b WHEN adding them THEN we should get $expected',
       ({ a, b, expected }) => {
