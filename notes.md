@@ -23,3 +23,4 @@
 - User story #1 🚧
   - Scenario # 🔴 - Dummy files
   - Scenario #1 🔴 - change
+  - Scenario #1 🟢 - Fixed
