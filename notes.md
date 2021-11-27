@@ -25,3 +25,4 @@
   - Scenario #1 🔴 - change
   - Scenario #1 🟢 - Fixed
   - Scenario #1 🟢 - added a test
+  - Scenario #1 ⚙ - Set up complexity and metrics reports
